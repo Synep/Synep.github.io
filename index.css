@@ -3,7 +3,12 @@ body{
 
 }
 h1{
- color: whitesmoke; font-size: 50px; text-align: center; }
+ color: whitesmoke; font-size: 50px; text-align: center; font-weight: bold;}
 
 h2{
- color: whitesmoke; font-size: 50px; text-align: center; }
+ color: whitesmoke; font-size: 50px; text-align: center; font-weight: bold;}
+
+ p{
+ 	color: whitesmoke; font-size: 20px; text-align: left;
+
+ }
